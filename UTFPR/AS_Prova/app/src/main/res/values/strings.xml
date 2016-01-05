@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AS_Prova</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="avaliacao1parte1">Avaliação 1 - Parte 1</string>
+    <string name="nomeMarcelo">Nome: Marcelo Paglione</string>
+    <string name="raNumero">RA: 1256300</string>
+    <string name="questao2">QUESTÃO 2</string>
+    <string name="questao3">QUESTÃO 3</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="estounaquestao2">Estou na Questão 2</string>
+    <string name="meuNome">Meu nome</string>
+    <string name="buttonVoltar">Voltar</string>
+    <string name="title_activity_main3">MainActivity3</string>
+    <string name="familiar">Familiar</string>
+    <string name="trabalho">Trabalho</string>
+    <string name="amigo">Amigo</string>
+    <string name="cuidadoespecial">Cuidado especial?</string>
+    <string name="salvar">Salvar</string>
+</resources>

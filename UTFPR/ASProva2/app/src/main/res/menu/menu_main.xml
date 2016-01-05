@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+    <item
+        android:id="@+id/action_q1"
+        android:orderInCategory="100"
+        android:title="@string/questao_nro1"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_q2"
+        android:orderInCategory="100"
+        android:title="@string/questao_nro2"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_sair"
+        android:orderInCategory="100"
+        android:title="@string/sair"
+        app:showAsAction="never" />
+</menu>

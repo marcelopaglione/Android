@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Avaliação 2 - Programação Móvel Parte 1</string>
+    <string name="bt_getAll">GET ALL</string>
+    <string name="bt_getId">GET ID</string>
+    <string name="bt_post">POST</string>
+    <string name="bt_delete">DELETE</string>
+    <string name="title_activity_activity_getall">Get All Tasks</string>
+    <string name="title_activity_activity_getid">Get Task by ID</string>
+    <string name="title_activity_activity_delete">Delete Task</string>
+    <string name="title_activity_activity_post">Insert Task</string>
+    <string name="bt_get">GET</string>
+    <string name="bt_update">UPDATE</string>
+</resources>

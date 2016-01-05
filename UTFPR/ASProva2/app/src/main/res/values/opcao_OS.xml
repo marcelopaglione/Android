@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="opcao_OS">
+        <item>não selecionado</item>
+        <item>Android</item>
+        <item>Iphone</item>
+        <item>Windows Phone</item>
+    </string-array>
+</resources>

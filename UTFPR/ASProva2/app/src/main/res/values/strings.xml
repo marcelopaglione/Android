@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Prova 2 - AndroidStudio</string>
+
+    <string name="questao_nro1">Questão 6</string>
+    <string name="questao_nro2">Questão 7</string>
+    <string name="sair">Sair</string>
+
+    <string name="nome">Marcelo Ortiz Paglione Junior</string>
+    <string name="data_hoje">23/10/2015</string>
+    <string name="avaliacao_nro">Avaliação 2</string>
+    <string name="title_activity_questao6__main">Questao 6</string>
+    <string name="radiowSD">Com cartão SD</string>
+    <string name="radiowoSD">Sem cartão SD</string>
+    <string name="bt_salvar_t2">Salvar</string>
+    <string name="title_activity_questao7__main">Questao 7</string>
+    <string name="button_add">Add</string>
+    <string name="button_select">Ver pessoas</string>
+    <string name="title_activity_questao7_add__main">Adicionar Pessoas</string>
+    <string name="radio_sexoM">Masculino</string>
+    <string name="radio_sexoF">Feminino</string>
+    <string name="bt_salvar">Salvar</string>
+    <string name="title_activity_questao7_mostrar__main">Pessoas Cadastradas</string>
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Programação móvel</string>
+    <string name="action_foto">Questão 4</string>
+    <string name="action_video">Questão 5</string>
+    <string name="title_activity_activity_tirar_foto">Tirar Foto</string>
+    <string name="title_activity_activity_video">Gravar Video</string>
+    <string name="action_gps">Questao 6</string>
+    <string name="title_activity_activity_gps">Ir para a UTFPR</string>
+    <string name="main_name">Marcelo Ortiz Paglione Junior</string>
+    <string name="main_date">27/11/2015</string>
+    <string name="main_test">Avaliação 2 - Parte 2</string>
+    <string name="main_q4">Questão 4</string>
+    <string name="main_q5">Questão 5</string>
+    <string name="main_q6">Questão 6</string>
+    <string name="gps_start">Start!</string>
+</resources>
