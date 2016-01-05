@@ -1,0 +1,133 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="16dp"
+    android:paddingTop="16dp"
+    android:background="@android:color/black"
+    android:weightSum="1"
+    android:baselineAligned="false"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="35sp"
+        android:orientation="horizontal"
+        android:layout_gravity="fill_horizontal">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="35sp"
+            android:orientation="vertical"
+            android:layout_weight="0.5"
+            android:layout_gravity="fill_horizontal">
+
+            <TextView
+                android:id="@+id/textView1"
+                android:text="Missing Coins"
+                android:textSize="20sp"
+                android:layout_weight="0.5"
+                android:layout_gravity="center"
+                android:layout_width="wrap_content"
+                android:textColor="@android:color/holo_orange_dark"
+                android:textStyle="bold"
+                android:layout_height="fill_parent" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="35sp"
+            android:orientation="vertical"
+            android:layout_weight="0.5"
+            android:layout_gravity="fill_horizontal">
+
+            <TextView
+                android:id="@+id/textView2"
+                android:text="Owned Coins"
+                android:textSize="20sp"
+                android:layout_gravity="center"
+                android:layout_width="wrap_content"
+                android:textColor="@android:color/holo_orange_dark"
+                android:textStyle="bold"
+                android:layout_weight="0.4"
+                android:layout_height="fill_parent" />
+        </LinearLayout>
+
+
+
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight="0.5"
+            android:layout_height="match_parent">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="fill_parent"
+                    android:id="@+id/linear_view"
+                    android:layout_weight="0.50"
+                    android:layout_gravity="center_horizontal"
+                    android:orientation="vertical">
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/linear_view2"
+                    android:layout_width="match_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="0.50"
+                    android:layout_gravity="center_horizontal"
+                    android:orientation="vertical">
+
+                </LinearLayout>
+            </LinearLayout>
+
+        </ScrollView>
+
+        <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight="0.5"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_weight="0.50"
+                android:layout_height="wrap_content">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="fill_parent"
+                    android:id="@+id/linear_view3"
+                    android:layout_weight="0.50"
+                    android:layout_gravity="center_horizontal"
+                    android:orientation="vertical">
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="fill_parent"
+                    android:id="@+id/linear_view4"
+                    android:layout_weight="0.50"
+                    android:layout_gravity="center_horizontal"
+                    android:orientation="vertical">
+
+                </LinearLayout>
+            </LinearLayout>
+
+
+        </ScrollView>
+
+    </LinearLayout>
+</LinearLayout>
