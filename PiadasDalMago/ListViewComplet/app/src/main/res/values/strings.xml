@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Piadas Dal Mago</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="link">piadasdalmago.blogspot.com.br</string>
+    <string name="rodape">see more @</string>
+    <string name="piada_ruim">piada ruim é aqui mesmo</string>
+    <string name="risada">Play</string>
+
+</resources>
